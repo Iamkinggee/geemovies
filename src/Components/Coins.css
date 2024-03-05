@@ -16,7 +16,7 @@
 }
 
 .coin-name {
-    margin-left: -4rem;
+    margin-left: -7rem;
 }
 
 @media screen and (max-width: 720px){
@@ -33,7 +33,7 @@
     box-shadow: 0px 0px 12px #18191b;
     border-radius: 8px;
     margin: 2rem 1rem;
-    padding: .7rem 1rem;
+    padding: -10rem 1rem;
     font-weight: 300;
 
 }
@@ -45,12 +45,14 @@
 }
 
 img{
-    height: 40px;
-    margin-right: 8px;
-    width: auto;
+    height: 20px;
+    margin-right: 5px;
+    /* width: 40px;  */
+   
+    /* formerly auto */
 }
 
 .img{
-    display: flex;
-    align-items: center;
+    /* display: flex; */
+    /* align-items: center; */
 }

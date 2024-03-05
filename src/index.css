@@ -1,14 +1,11 @@
- /* @import 'tailwindcss/base';
+ @import 'tailwindcss/base';
 @import 'tailwindcss/components';
-@import 'tailwindcss/utilities';  */
+@import 'tailwindcss/utilities'; 
 
  body {
    margin: 0;
-   /* font-family:Utendo;
-   src: url(../public/Utendo-Regular.ttf);
-   font-weight: regular; */
-   font-family:Utendo;
-   src: url(../public/Utendo-Regular.ttf);
+   /* font-family:Utendo; */
+   /* src: url(../public/Utendo-Regular.ttf); */
    font-weight: regular;
    background-color: #26272b;
    color: #f4f4f4;
@@ -26,10 +23,3 @@
     color: #f4f4f4;
     text-decoration: none;
  }
-
- h1{
-    text-align: center;
-    margin: 1rem;
- }
-
- 

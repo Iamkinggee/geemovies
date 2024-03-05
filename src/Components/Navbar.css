@@ -1,15 +1,4 @@
-.navbar{
-    display: grid;
-    justify-content: center;
-    align-items: center;
-}
 
-
-
-/* .icon{
-    font-size: 2 rem;
-    color: #e734e4;
-}  */
 
  .purple{
     /* color:#e734e4; */
@@ -19,8 +8,8 @@
 
 .logo{
     justify-content: center;
-    align-items: center;
-    margin: auto;
-    width: 70px;
-    height: 60px;
+    align-items: center; 
+     margin: auto; 
+     width: 60px;
+    height: 50px;
 }
