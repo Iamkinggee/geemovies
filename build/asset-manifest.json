@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/coinducko/static/css/main.d03cef30.css",
+    "main.js": "/coinducko/static/js/main.b7ce7b26.js",
+    "static/media/duck.png": "/coinducko/static/media/duck.6da341c5ec3364c0a990.png",
+    "static/media/googleplay.png": "/coinducko/static/media/googleplay.88c0cf672ae4dd873d7f.png",
+    "static/media/appstore.png": "/coinducko/static/media/appstore.2a8f2a38110b76832fb2.png",
+    "index.html": "/coinducko/index.html",
+    "main.d03cef30.css.map": "/coinducko/static/css/main.d03cef30.css.map",
+    "main.b7ce7b26.js.map": "/coinducko/static/js/main.b7ce7b26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d03cef30.css",
+    "static/js/main.b7ce7b26.js"
+  ]
+}

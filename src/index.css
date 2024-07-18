@@ -2,24 +2,8 @@
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities'; 
 
- body {
-   margin: 0;
-   /* font-family:Utendo; */
-   /* src: url(../public/Utendo-Regular.ttf); */
-   font-weight: regular;
-   background-color: #26272b;
-   color: #f4f4f4;
+
+body{
+   background-color: #000000;
+   font-family: 'Lato', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-
- * {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
- } 
-
-
-
- a{
-    color: #f4f4f4;
-    text-decoration: none;
- }
